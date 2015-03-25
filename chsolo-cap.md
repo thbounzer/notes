@@ -1,6 +1,6 @@
 #Setup tests with chef-solo, Vagrant and Capistrano
 ---
-1. Setup chef 
+1. **Setup chef** 
  * Now there is [chef-dk](http://downloads.chef.io/chef-dk/).
  * Verify chef-dk installation with `chef-verify`
  * chef-dk uses an embedded environment for the related gems, ruby, and so on. To avoid conflicts, run `chef exec, chef gem` This is a must (IMHO) if you have rvm installed. 
@@ -10,11 +10,18 @@
  * You can setup chef client on the guest running `kitchen setup machinename`, default provisioner is chef-solo
  * Destroy (if needed) machine instances with `kitchen destroy machinename`
 
-2. Cookbooks
+2. **Cookbook**
  * Generate cookbook, using chef-dk: `chef generate cookbook nameofcookbook`
+ * Generate a file for a cookbook: `chef generate file nameofthefile`
+ * Deploy the created cookbook (converging a node): `kitchen converge machinename`
+   
 
-
-A. Various things to keep in mind
+A. **Various things to keep in mind**
  * *Ohai*: Is a chef provided tool, runs on a node and creates a json with an abundant set of informations related to the node machine.
  * *Modes*: local-mode, client-mode, solo. Solo will be deprecated in the feature, get used to more powerful local-mode.
- * *Knife and Chef*: Future chef-dk releases will unify all operations related to cookbook management to use just the chef command instead of knife. chef generate command supports -for example- creation of cookbooks in incremental way.  
+ * *Knife and Chef*: Future chef-dk releases will unify all operations related to cookbook management to use just the chef command instead of knife. chef generate command supports -for example- creation of cookbooks in incremental way.
+ * *to converge* means to deploy a cookbook 
+
+
+
+ 
