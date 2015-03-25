@@ -2,16 +2,16 @@
 ---
 1. Setup chef 
  * Now there is [chef-dk](http://downloads.chef.io/chef-dk/).
- * Verify chef-dk installation with ´chef-verify´
- * chef-dk uses an embedded environment for the related gems, ruby, and so on. To avoid conflicts, run ´chef exec, chef gem´ This is a must (IMHO) if you have rvm installed. 
- * Create kitchen base working directory structure ´kitchen init --create-gemfile´
+ * Verify chef-dk installation with `chef-verify`
+ * chef-dk uses an embedded environment for the related gems, ruby, and so on. To avoid conflicts, run `chef exec, chef gem` This is a must (IMHO) if you have rvm installed. 
+ * Create kitchen base working directory structure `kitchen init --create-gemfile`
  * Edit .kitchen.yml according to your needs
- * Check virtualbox running machines: ´VBoxManage list runningvms´
- * You can setup chef client on the guest running ´kitchen setup machinename´, default provisioner is chef-solo
+ * Check virtualbox running machines: `VBoxManage list runningvms`
+ * You can setup chef client on the guest running `kitchen setup machinename`, default provisioner is chef-solo
  * Destroy (if needed) machine instances with `kitchen destroy machinename`
 
 2. Cookbooks
- * Generate cookbook, using chef-dk: ´chef generate cookbook nameofcookbook´
+ * Generate cookbook, using chef-dk: `chef generate cookbook nameofcookbook`
 
 
 A. Various things to keep in mind
