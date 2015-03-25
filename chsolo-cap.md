@@ -13,7 +13,7 @@
 2. **Cookbook**
  * Generate cookbook, using chef-dk: `chef generate cookbook nameofcookbook`
  * Generate a file for a cookbook: `chef generate file nameofthefile`
- * Deploy the created cookbook (converging a node): `kitchen converge machinename`
+ * Deploy the created cookbook (converging a node): `kitchen converge machinename` (machine name is needed if you have multiple guest host configured in the kitchen)
    
 
 A. **Various things to keep in mind**
