@@ -18,10 +18,17 @@
  * Generate a attribute file: `chef generate attribute nameofattribute`
  * Attribute priorities (from highest to lowest): Auto(Ohai attr) --> Recipe defined attrs --> Attribute file defined attrs  
 
+3. **Knife**
+ * Use **knife** to download and add cookbook, upload cookbook on the chef server and talk with it
+ * Knife uses apache solr for searching, queries must be built using solr syntax
+ * 
+
+
 A. **Various things to keep in mind**
  * *Guest test machine settings*: particular settings (for example network customization) must be passed within kitchen.yml file, under [driver section](https://github.com/test-kitchen/kitchen-vagrant#-network)
  * *Ohai*: Is a chef provided tool, runs on a node and creates a json with an abundant set of informations related to the node machine.
  * *Modes*: local-mode, client-mode, solo. Solo will be deprecated in the feature, get used to more powerful local-mode.
  * *Knife and Chef*: Future chef-dk releases will unify all operations related to cookbook management to use just the chef command instead of knife. chef generate command supports -for example- creation of cookbooks in incremental way.
- * *to converge* means to deploy a cookbook 
+ * *to converge* means to deploy a cookbook
+ * *debugging attributes*: Use `pp node.debug_value(attribute_name)`  to print priorities set for the attribute.  
  * *Kitchen test* is slow. Huge improvement if someone implements caching of files downloaded from the web.  
