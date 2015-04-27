@@ -20,3 +20,8 @@
 * test that hiera is working: `puppet apply -e '$somevar = hiera(foo) notify { $somevar: }'`
 * test syntax of your yaml files: `ruby -e "require 'yaml'; YAML.load_file('hiera.yaml')"` 
 * undef variable value is like a sort of NULL value
+
+
+##other special notes
+
+* In puppet.conf on each agent node, you can set the environment setting in either the agent or main config section. When that node requests a catalog from the Puppet master, it will request that environment. If you are using an ENC and it specifies an environment for that node, it will override whatever is in the config file
