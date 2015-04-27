@@ -12,4 +12,11 @@
 * variables are with a dollar sign, like $variable
 * facter is the equivalent of chef ohai. And it obtains FACTS, that are like default system global vars ($ipaddress)
 * modules are like cookbooks 
-		 
+* modules name must have the same name of the direcory that contains them. Inside module dir you must have a manifests dir, and manifest shoul contain an init.pp manifest file 
+
+##special notes:
+* Avoid PC1 dpkg in debian, it installs a completely outdated version of puppet, despite the fact that the package is more recent
+* check dns name resolution of the master and of the agents, could be messy to fix things after 
+* test that hiera is working: `puppet apply -e '$somevar = hiera(foo) notify { $somevar: }'`
+* test syntax of your yaml files: `ruby -e "require 'yaml'; YAML.load_file('hiera.yaml')"` 
+* undef variable value is like a sort of NULL value
