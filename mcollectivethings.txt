@@ -1,0 +1,35 @@
+node 'broker1.example.com' {
+  class { '::mcollective':
+    middleware         => true,
+    middleware_hosts   => [ 'broker1.example.com' ],
+    middleware_ssl     => true,
+    securityprovider   => 'ssl',
+    ssl_client_certs   => 'puppet:///modules/site_mcollective/client_certs',
+    ssl_ca_cert        => 'puppet:///modules/site_mcollective/certs/ca.pem',
+    ssl_server_public  => 'puppet:///modules/site_mcollective/certs/server.pem',
+    ssl_server_private => 'puppet:///modules/site_mcollective/private_keys/server.pem',
+  }
+}
+
+Commands that I used for activemq TLS/SSL setup:
+
+  275  ls
+  276  cp /var/lib/puppet/ssl/certs/ca.pem this.machine.keys/.
+  277  cp /var/lib/puppet/ssl/certs/master-of-puppets.marionettes.demo.pem this.machine.keys/.
+  278  cp /var/lib/puppet/ssl/private_keys/master-of-puppets.marionettes.demo.pem this.machine.keys/master-of-puppets.marionettes.demo.PRV.pem 
+  279  cd this.machine.keys/
+  280  ls
+  281  vim /root/mcopwd.txt 
+  282  keytool -import -alias "Master of puppets CA" -file ca.pem -keystore trustore.jks
+  283  cat master-of-puppets.marionettes.demo.PRV.pem master-of-puppets.marionettes.demo.pem > chained.temp.pem
+  284  openssl pkcs12 -export -in chained.temp.pem -out activemq.p12 -name master-of-puppets.marionettes.demo
+  285  ls -lhat
+  286  rm -rf activemq.p12 
+  287  ls
+  288  less ~/mcopwd.txt 
+  289  clear
+  290  openssl pkcs12 -export -in chained.temp.pem -out activemq.p12 -name master-of-puppets.marionettes.demo
+  291  keytool -importkeystore -destkeystore keystore.jks -srckeystore activemq.p12 -srcstoretype PKCS12 -alias master-of-puppets.marionettes.demo
+  292  ls
+  293  ls -lhat
+
