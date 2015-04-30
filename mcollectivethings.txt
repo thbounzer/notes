@@ -33,3 +33,6 @@ Commands that I used for activemq TLS/SSL setup:
   292  ls
   293  ls -lhat
 
+useful links:
+http://www.tokiwinter.com/configuring-and-deploying-mcollective-on-centos-6/
+
