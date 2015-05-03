@@ -30,4 +30,3 @@
 	sudo puppet agent --configprint certdir,privatekeydir (on an agent node)
 	sudo puppet master --configprint eertdir,privatekeydir (master node)
 
-thr
