@@ -36,3 +36,37 @@ Commands that I used for activemq TLS/SSL setup:
 useful links:
 http://www.tokiwinter.com/configuring-and-deploying-mcollective-on-centos-6/
 
+
+#Installation guide as per "Learning MCollective Parallel server management.."
+
+###Middleware installation:
+
+* `sudo apt-get install activemq`
+* `sudo update-rc.d activemq multiuser`
+
+* Apply patch file to get correct configuration (maybe build a simple puppet module template)
+
+* Enable the configuration with ln -s available enabled
+* Test everything is ok with `/etc/init.d/activemq console main
+* If everything is ok, middleware is working. But without TLS/SSL
+
+
+###Server installation:
+
+* `sudo apt-get install ruby-stomp mcollective`
+* `sudo apt-get update-rc.d mcollective multiuser` 
+* Modify settings accordingly to diff file
+* Modify /etc/default/mcollective accordingly -set yes- 
+* Start the mcollective service on the server 
+* Check connection estabilished on selected port 
+
+###Client installation:
+
+* `sudo apt-get install mcollective-client`
+* Apply the configuration file diff on client.cfg
+
+
+
+
+
+
