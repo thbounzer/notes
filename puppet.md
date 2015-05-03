@@ -28,4 +28,6 @@
 
 * Where are the certificate files stored?
 	sudo puppet agent --configprint certdir,privatekeydir (on an agent node)
-	sudo puppet master --configprint certdir,privatekeydir (master node)
+	sudo puppet master --configprint eertdir,privatekeydir (master node)
+
+thr
