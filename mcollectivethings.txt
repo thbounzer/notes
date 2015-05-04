@@ -66,7 +66,31 @@ http://www.tokiwinter.com/configuring-and-deploying-mcollective-on-centos-6/
 * Apply the configuration file diff on client.cfg
 
 
+###Installing puppet module for mcollective:
 
+* Download the module `git clone https://github.com/jorhett/puppet-mcollective.git`
 
+* enable directory environments: `environmentpath = $confdir/environments` (I mean, edit puppet.conf and add this line)
+* We want hiera for common configuration parameters. Create hiera.yaml inside /etc/puppet (change the datadir param according to your needs)
+
+---
+:backends:
+     - yaml
+:yaml:
+     :datadir: '/etc/puppet/environments/test/hieradata'
+:hierarchy:
+     - hostname/%{::hostname}
+     - common
+* create common.yaml inside hieradata:
+
+classes:
+    - mcollective::server
+mcollective::hosts:
+    -'activemq.example.net'
+mcollective::client_password: ''
+mcollective::server_password: ''
+mcollective::psk_key: ''
+
+* include hiera in manifest: `hiera_include('classes')` 
 
 
