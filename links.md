@@ -1,6 +1,7 @@
 * http://httpd.apache.org/docs/current/rewrite/intro.html
 * https://cisofy.com/ (linux system auditing)
 * http://spacecraft.ssl.umd.edu/akins_laws.html
+* http://aa.quae.nl/en/reken/zonpositie.html
 
 ####TLS/SSL explanation on stack overflow
 * http://security.stackexchange.com/questions/20803/how-does-ssl-tls-work
