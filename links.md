@@ -3,6 +3,9 @@
 * http://spacecraft.ssl.umd.edu/akins_laws.html
 * http://aa.quae.nl/en/reken/zonpositie.html
 
+####Reference
+* sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html
+
 ####TLS/SSL explanation on stack overflow
 * http://security.stackexchange.com/questions/20803/how-does-ssl-tls-work
 
