@@ -2,6 +2,8 @@
 * https://cisofy.com/ (linux system auditing)
 * http://spacecraft.ssl.umd.edu/akins_laws.html
 * http://aa.quae.nl/en/reken/zonpositie.html
+* https://johncarlosbaez.wordpress.com/2013/09/29/levels-of-excellence/
+
 
 ####Reference
 * sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html
