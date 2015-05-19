@@ -3,7 +3,7 @@
 * http://spacecraft.ssl.umd.edu/akins_laws.html
 * http://aa.quae.nl/en/reken/zonpositie.html
 * https://johncarlosbaez.wordpress.com/2013/09/29/levels-of-excellence/
-
+* http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/
 
 ####Reference
 * sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html
