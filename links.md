@@ -4,6 +4,7 @@
 * http://aa.quae.nl/en/reken/zonpositie.html
 * https://johncarlosbaez.wordpress.com/2013/09/29/levels-of-excellence/
 * http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/
+* http://conceptviz.github.io/#/e30=
 
 ####Reference
 * sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html
@@ -13,6 +14,9 @@
 
 ####Unikernels
 * http://slides.com/technolo-g/intro-to-unikernels-and-erlang-on-xen-ling-demo#/
+
+####Regex tester
+* http://regexr.com/
 
 ####prv
 * log/references/bd13361056c8043f33c659c776f2f92fd59598dd9c3dcb.pdf
