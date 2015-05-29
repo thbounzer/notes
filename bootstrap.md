@@ -5,7 +5,7 @@
 
 ##Master setup:
 
-* Download the correct dpkg (follow the updated official guide)
+* Download the correct dpkg (follow the updated official guide - https://apt.puppetlabs.com/puppetlabs-release-wheezy.deb)
 * Check that the FQDN of the machine is the one that you want
 * Install puppetmaster with passenger : sudo apt-get install puppetmaster-passenger
 * Master is up. Check if passenger is running correctly
