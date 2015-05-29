@@ -5,6 +5,13 @@
 * https://johncarlosbaez.wordpress.com/2013/09/29/levels-of-excellence/
 * http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/
 * http://conceptviz.github.io/#/e30=
+* http://hackershelf.com/browse/?popular=1
+
+
+### Math
+* http://www.askamathematician.com/2015/05/q-is-there-such-a-thing-as-half-a-derivative/
+* http://cr.yp.to/papers/calculus.pdf
+
 
 ####Reference
 * sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html
