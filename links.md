@@ -7,6 +7,8 @@
 * http://conceptviz.github.io/#/e30=
 * http://hackershelf.com/browse/?popular=1
 
+### Inspirational
+* http://www.bbc.com/news/magazine-32961309
 
 ### Math
 * http://www.askamathematician.com/2015/05/q-is-there-such-a-thing-as-half-a-derivative/
