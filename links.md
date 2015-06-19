@@ -34,3 +34,7 @@
 * log/references/bd13361056c8043f33c659c776f2f92fd59598dd9c3dcb.pdf
 * log/references/6555b45688f6478c4015eeab08e85659a72524d629fd47.tgz
 * http://pastebin.com/aT5R5yMA
+
+####Languages
+* http://www.openculture.com/freelanguagelessons
+* http://fsi-languages.yojik.eu/
