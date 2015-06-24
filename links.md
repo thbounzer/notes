@@ -6,6 +6,7 @@
 * http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/
 * http://conceptviz.github.io/#/e30=
 * http://hackershelf.com/browse/?popular=1
+* http://wiki.osdev.org/Bare_Bones
 
 ### Inspirational
 * http://www.bbc.com/news/magazine-32961309
