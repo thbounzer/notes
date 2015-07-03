@@ -8,6 +8,10 @@
 * http://hackershelf.com/browse/?popular=1
 * http://wiki.osdev.org/Bare_Bones
 
+### Blog
+* www.raphkoster.com/
+
+
 ### Machine learning and other stuff (neural network backprop better)
 * http://www.ai-junkie.com/
 
