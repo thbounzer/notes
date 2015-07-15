@@ -54,3 +54,6 @@
 * [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 * [You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 * [The Art of Money Getting](https://www.gutenberg.org/files/8581/8581-h/8581-h.htm)
+
+####Videos
+* [clojure walmart](https://www.youtube.com/watch?v=av9Xi6CNqq4) 
