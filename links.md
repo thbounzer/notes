@@ -11,6 +11,8 @@
 ### Blog
 * www.raphkoster.com/
 
+### Rails & React
+* https://www.airpair.com/reactjs/posts/reactjs-a-guide-for-rails-developers
 
 ### Machine learning and other stuff (neural network backprop better)
 * http://www.ai-junkie.com/
