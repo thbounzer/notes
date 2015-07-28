@@ -14,6 +14,9 @@
 
 ### Machine learning and other stuff (neural network backprop better)
 * http://www.ai-junkie.com/
+* https://timdettmers.wordpress.com/2015/07/27/brain-vs-deep-learning-singularity/
+* http://ilyakava.tumblr.com/post/125230881527/my-1st-kaggle-convnet-getting-to-3rd-percentile
+
 
 ### Inspirational
 * http://www.bbc.com/news/magazine-32961309
