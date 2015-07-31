@@ -7,6 +7,7 @@
 * http://conceptviz.github.io/#/e30=
 * http://hackershelf.com/browse/?popular=1
 * http://wiki.osdev.org/Bare_Bones
+* https://codelympics.io/blog/why-do-side-projects-die
 
 ### Blog
 * www.raphkoster.com/
