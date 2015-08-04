@@ -20,6 +20,8 @@
 * https://timdettmers.wordpress.com/2015/07/27/brain-vs-deep-learning-singularity/
 * http://ilyakava.tumblr.com/post/125230881527/my-1st-kaggle-convnet-getting-to-3rd-percentile
 
+### Note taking
+* http://www.onlamp.com/lpt/a/6377
 
 ### Inspirational
 * http://www.bbc.com/news/magazine-32961309
