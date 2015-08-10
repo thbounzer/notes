@@ -19,6 +19,7 @@
 * http://www.ai-junkie.com/
 * https://timdettmers.wordpress.com/2015/07/27/brain-vs-deep-learning-singularity/
 * http://ilyakava.tumblr.com/post/125230881527/my-1st-kaggle-convnet-getting-to-3rd-percentile
+* http://www.cs.waikato.ac.nz/ml/weka/
 
 ### Note taking
 * http://www.onlamp.com/lpt/a/6377
