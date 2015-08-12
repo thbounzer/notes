@@ -8,6 +8,8 @@
 * http://hackershelf.com/browse/?popular=1
 * http://wiki.osdev.org/Bare_Bones
 * https://codelympics.io/blog/why-do-side-projects-die
+* http://ask.puppetlabs.com/question/1655/an-end-to-end-roleprofile-example-using-hiera/
+
 
 ### Blog
 * www.raphkoster.com/
@@ -46,9 +48,6 @@
 
 ####Password manager
 * http://www.passwordstore.org/
-
-####Problems:
-* https://github.com/phusion/passenger/issues/1512
 
 ####prv
 * log/references/bd13361056c8043f33c659c776f2f92fd59598dd9c3dcb.pdf
