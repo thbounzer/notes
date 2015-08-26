@@ -9,7 +9,7 @@
 * http://wiki.osdev.org/Bare_Bones
 * https://codelympics.io/blog/why-do-side-projects-die
 * http://ask.puppetlabs.com/question/1655/an-end-to-end-roleprofile-example-using-hiera/
-
+* https://github.com/prakhar1989/awesome-courses
 
 ### Blog
 * www.raphkoster.com/
