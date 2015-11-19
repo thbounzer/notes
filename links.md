@@ -11,6 +11,9 @@
 * http://ask.puppetlabs.com/question/1655/an-end-to-end-roleprofile-example-using-hiera/
 * https://github.com/prakhar1989/awesome-courses
 
+### Sandbox qemu+aboriginal
+* http://www.hs-augsburg.de/~phuewe/automated_sandbox_testing_with_qemu_and_aboriginal.html
+
 ### Blog
 * www.raphkoster.com/
 
