@@ -14,6 +14,7 @@
 * http://lcamtuf.coredump.cx/prep/
 * http://www.peirce.org/writings/p119.html
 
+
 ### Sandbox qemu+aboriginal
 * http://www.hs-augsburg.de/~phuewe/automated_sandbox_testing_with_qemu_and_aboriginal.html
 
@@ -39,6 +40,7 @@
 * http://www.askamathematician.com/2015/05/q-is-there-such-a-thing-as-half-a-derivative/
 * http://cr.yp.to/papers/calculus.pdf
 * http://jspha.com/posts/there_is_no_royal_road_to_mathematics/
+* http://www.mathpages.com/ 
 
 ####Reference
 * sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html
