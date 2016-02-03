@@ -1,6 +1,6 @@
 ## Vsftpd and virtual user configuration (debian)
 
-### (Need passive mode configuration?)[http://serverfault.com/questions/421161/how-to-configure-vsftpd-to-work-with-passive-mode]
+### [Need passive mode configuration?](http://serverfault.com/questions/421161/how-to-configure-vsftpd-to-work-with-passive-mode)
 
 ```
 pasv_enable=Yes
