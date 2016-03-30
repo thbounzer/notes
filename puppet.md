@@ -1,5 +1,7 @@
 #puppet starting up
+
 ##precious links:
+
 * [installing instructions](https://puppetlabs.com/misc/download-options)
 * [debian install section](https://docs.puppetlabs.com/guides/install_puppet/install_debian_ubuntu.html)
 
@@ -27,6 +29,6 @@
 * In puppet.conf on each agent node, you can set the environment setting in either the agent or main config section. When that node requests a catalog from the Puppet master, it will request that environment. If you are using an ENC and it specifies an environment for that node, it will override whatever is in the config file
 
 * Where are the certificate files stored?
-	sudo puppet agent --configprint certdir,privatekeydir (on an agent node)
-	sudo puppet master --configprint eertdir,privatekeydir (master node)
+    * `sudo puppet agent --configprint certdir,privatekeydir (on an agent node)`
+    * `sudo puppet master --configprint eertdir,privatekeydir (master node)`
 
