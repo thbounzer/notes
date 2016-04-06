@@ -13,6 +13,8 @@
 * https://blog.todoist.com/2015/11/30/ultimate-guide-personal-productivity-methods/
 * http://lcamtuf.coredump.cx/prep/
 * http://www.peirce.org/writings/p119.html
+* https://cloud.google.com/solutions/automated-build-images-with-jenkins-kubernetes
+* https://cloud.google.com/solutions/scalable-and-resilient-apps
 
 
 ### Sandbox qemu+aboriginal
