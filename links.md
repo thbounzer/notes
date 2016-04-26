@@ -18,6 +18,9 @@
 * http://www.cs.yale.edu/homes/aspnes/classes/223/notes.pdf
 * http://www.cs.yale.edu/homes/aspnes/pinewiki/CS365%282f%29Notes.html
 
+### Must
+* https://medium.com/@akosma/being-a-developer-after-40-3c5dd112210c#.fmu869hp1
+
 ### Sandbox qemu+aboriginal
 * http://www.hs-augsburg.de/~phuewe/automated_sandbox_testing_with_qemu_and_aboriginal.html
 
