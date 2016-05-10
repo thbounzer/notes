@@ -18,7 +18,11 @@
 * http://www.cs.yale.edu/homes/aspnes/classes/223/notes.pdf
 * http://www.cs.yale.edu/homes/aspnes/pinewiki/CS365%282f%29Notes.html
 * http://www.bakadesuyo.com/2016/04/bad-habits/?utm_source=%22Barking+Up+The+Wrong+Tree%22+Weekly+Newsletter&utm_campaign=de725eabac-badhabits_4_17_2016&utm_medium=email&utm_term=0_78d4c08a64-de725eabac-57698157
-http://nickcraver.com/blog/2016/02/03/stack-overflow-a-technical-deconstruction/
+* http://nickcraver.com/blog/2016/02/03/stack-overflow-a-technical-deconstruction/
+
+### Applied crypto
+
+* http://cacr.uwaterloo.ca/hac/
 
 ### Must
 * https://medium.com/@akosma/being-a-developer-after-40-3c5dd112210c#.fmu869hp1
