@@ -90,8 +90,3 @@
 
 ####Videos
 * [clojure walmart](https://www.youtube.com/watch?v=av9Xi6CNqq4) 
-
-####Stack
-* http://www.one-tab.com/page/n44msJXfRPedML604rW3JQ
-
-
