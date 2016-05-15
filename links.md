@@ -1,6 +1,14 @@
-* https://cisofy.com/ (linux system auditing)
-* http://spacecraft.ssl.umd.edu/akins_laws.html
-* http://aa.quae.nl/en/reken/zonpositie.html
+### Tools
+
+* [linux system auditing tool](https://cisofy.com/)
+
+### Space, astro 
+
+* [Akin laws of space engineering](http://spacecraft.ssl.umd.edu/akins_laws.html)
+* [Sun position, ephemeris calc](http://aa.quae.nl/en/reken/zonpositie.html)
+
+### Various
+
 * https://johncarlosbaez.wordpress.com/2013/09/29/levels-of-excellence/
 * http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/
 * http://conceptviz.github.io/#/e30=
