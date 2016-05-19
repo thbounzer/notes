@@ -28,6 +28,7 @@
 * http://nickcraver.com/blog/2016/02/03/stack-overflow-a-technical-deconstruction/
 * [Teaching C](http://blog.regehr.org/archives/1393)
 * [Best cron practices](https://sanctum.geek.nz/arabesque/cron-best-practices/?imm_mid=0e3bcf&cmp=em-prog-na-na-newsltr_20160514)
+* [Your brain is not a computer](https://aeon.co/essays/your-brain-does-not-process-information-and-it-is-not-a-computer)
 
 ### Applied crypto
 
