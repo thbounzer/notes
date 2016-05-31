@@ -29,6 +29,7 @@
 * [Teaching C](http://blog.regehr.org/archives/1393)
 * [Best cron practices](https://sanctum.geek.nz/arabesque/cron-best-practices/?imm_mid=0e3bcf&cmp=em-prog-na-na-newsltr_20160514)
 * [Your brain is not a computer](https://aeon.co/essays/your-brain-does-not-process-information-and-it-is-not-a-computer)
+* [On coding interviews](https://blog.devmastery.com/how-to-win-the-coding-interview-71ae7102d685#.hfdxy9xsw)
 
 ### Applied crypto
 
