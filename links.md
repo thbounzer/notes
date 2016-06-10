@@ -68,7 +68,7 @@
 * http://jspha.com/posts/there_is_no_royal_road_to_mathematics/
 * http://www.mathpages.com/ 
 * http://web.media.mit.edu/~minsky/OLPC-1.html
-
+* [Confusion, will be my epitaph](https://j2kun.svbtle.com/mathematicians-are-chronically-lost-and-confused)
 
 ####Reference
 * sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html
