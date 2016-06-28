@@ -32,6 +32,10 @@
 * [On coding interviews](https://blog.devmastery.com/how-to-win-the-coding-interview-71ae7102d685#.hfdxy9xsw)
 * [I/Q for dummies](http://whiteboard.ping.se/SDR/IQ)
 
+### Japan
+
+* https://www.tofugu.com
+
 ### Applied crypto
 
 * http://cacr.uwaterloo.ca/hac/

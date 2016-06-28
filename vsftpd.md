@@ -30,6 +30,10 @@ write_enable=YES
 pam_service_name=vsftpd
 ```
 
+### Virtual user root config:
+
+Create a file that contains a string pointing to a local virtual root: `local_root=/home/local/root`
+
 ### Pam configuration:
 ```
 #Remove debug once tested
