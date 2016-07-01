@@ -51,6 +51,7 @@
 * www.raphkoster.com/
 * http://orbides.org/
 * http://www.ribbonfarm.com/
+* [More than a blog, same author of ribbonfarm](http://breakingsmart.com/)
 
 ### Rails & React
 * https://www.airpair.com/reactjs/posts/reactjs-a-guide-for-rails-developers
