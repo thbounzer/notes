@@ -32,6 +32,10 @@
 * [On coding interviews](https://blog.devmastery.com/how-to-win-the-coding-interview-71ae7102d685#.hfdxy9xsw)
 * [I/Q for dummies](http://whiteboard.ping.se/SDR/IQ)
 
+### Japan
+
+* https://www.tofugu.com
+
 ### Applied crypto
 
 * http://cacr.uwaterloo.ca/hac/
@@ -48,6 +52,7 @@
 * www.raphkoster.com/
 * http://orbides.org/
 * http://www.ribbonfarm.com/
+* [More than a blog, same author of ribbonfarm](http://breakingsmart.com/)
 
 ### Rails & React
 * https://www.airpair.com/reactjs/posts/reactjs-a-guide-for-rails-developers
@@ -87,11 +92,6 @@
 ####Password manager
 * http://www.passwordstore.org/
 
-####prv
-* log/references/bd13361056c8043f33c659c776f2f92fd59598dd9c3dcb.pdf
-* log/references/6555b45688f6478c4015eeab08e85659a72524d629fd47.tgz
-* http://pastebin.com/aT5R5yMA
-
 ####Languages
 * http://www.openculture.com/freelanguagelessons
 * http://fsi-languages.yojik.eu/
@@ -100,6 +100,3 @@
 * [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 * [You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 * [The Art of Money Getting](https://www.gutenberg.org/files/8581/8581-h/8581-h.htm)
-
-####Videos
-* [clojure walmart](https://www.youtube.com/watch?v=av9Xi6CNqq4) 
