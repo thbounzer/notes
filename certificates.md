@@ -3,6 +3,9 @@
 * Generate csr and key (reasonable params) : `openssl req -out your.fqdn.csr -new -newkey rsa:2048 -nodes -sha256 -keyout your.fqdn.key`;
 * Submit to CA owners and ask for signing;
 
+* *(optional)* Check the generated csr: `openssl req -text -noout -verify -in CSR.csr`
+ 
+
 * Depending on your situation, you will need to create a bundle crt that contains root CA crt, (optional: intermediate CA crt) and you signed crt.
     * If yes:
         * Concat files with cat: `cat your.fqdn.crt intermediate.crt root.crt > your.fqdn.bundle.crt`
