@@ -42,9 +42,11 @@
 * http://cacr.uwaterloo.ca/hac/
 
 ### Must
-* https://medium.com/@akosma/being-a-developer-after-40-3c5dd112210c#.fmu869hp1
+* [Being a dev after 40](https://medium.com/@akosma/being-a-developer-after-40-3c5dd112210c#.fmu869hp1)
 * [Secrets of great programmers](https://www.quora.com/What-are-the-best-kept-secrets-of-great-programmers/answer/Jens-Rantil?srid=V3G&amp%3Bshare=1&imm_mid=0e4b07&cmp=em-prog-na-na-newsltr_20160611)
-* [on charlie munger lattice of mental models]https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.khojlxomd
+* [on charlie munger lattice of mental models](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.khojlxomd)
+* [Math and genius](http://lesswrong.com/lw/2v1/great_mathematicians_on_math_competitions_and/)
+
 
 ### Sandbox qemu+aboriginal
 * http://www.hs-augsburg.de/~phuewe/automated_sandbox_testing_with_qemu_and_aboriginal.html
