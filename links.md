@@ -33,6 +33,8 @@
 * [I/Q for dummies](http://whiteboard.ping.se/SDR/IQ)
 * [Prof software development](http://mixmastamyk.bitbucket.org/pro_soft_dev/)
 
+* [Interview unix](https://www.youtube.com/watch?v=vT_J6xc-Az0)
+
 ### Japan
 
 * https://www.tofugu.com
