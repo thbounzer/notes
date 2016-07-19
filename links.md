@@ -82,6 +82,7 @@
 * http://www.mathpages.com/ 
 * http://web.media.mit.edu/~minsky/OLPC-1.html
 * [Confusion, will be my epitaph](https://j2kun.svbtle.com/mathematicians-are-chronically-lost-and-confused)
+* [Book of proof](http://www.people.vcu.edu/~rhammack/BookOfProof/)
 
 ####Reference
 * sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html
