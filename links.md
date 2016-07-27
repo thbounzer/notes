@@ -34,6 +34,7 @@
 * [Prof software development](http://mixmastamyk.bitbucket.org/pro_soft_dev/)
 * [ESP8266-tutorial](http://www.agcross.com/2015/09/the-esp8266-wifi-chip-part-1-up-and-running/)
 * [Interview unix](https://www.youtube.com/watch?v=vT_J6xc-Az0)
+* [Programming beyond practices](https://tinyletter.com/programming-beyond-practices/archive)
 
 ### Japan
 
