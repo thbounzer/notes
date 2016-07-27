@@ -32,7 +32,7 @@
 * [On coding interviews](https://blog.devmastery.com/how-to-win-the-coding-interview-71ae7102d685#.hfdxy9xsw)
 * [I/Q for dummies](http://whiteboard.ping.se/SDR/IQ)
 * [Prof software development](http://mixmastamyk.bitbucket.org/pro_soft_dev/)
-
+* [ESP8266-tutorial](http://www.agcross.com/2015/09/the-esp8266-wifi-chip-part-1-up-and-running/)
 * [Interview unix](https://www.youtube.com/watch?v=vT_J6xc-Az0)
 
 ### Japan
