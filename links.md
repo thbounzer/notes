@@ -1,3 +1,9 @@
+### Best of inspirational book two
+
+* [Levels of excellence](https://johncarlosbaez.wordpress.com/2013/09/29/levels-of-excellence/)
+
+
+
 ### Tools
 
 * [linux system auditing tool](https://cisofy.com/)
@@ -7,18 +13,18 @@
 * [Akin laws of space engineering](http://spacecraft.ssl.umd.edu/akins_laws.html)
 * [Sun position, ephemeris calc](http://aa.quae.nl/en/reken/zonpositie.html)
 
+### Puppet
+
+* http://ask.puppetlabs.com/question/1655/an-end-to-end-roleprofile-example-using-hiera/
+
+### Cscience
+
+* [OS development guidelines and tuts](http://wiki.osdev.org/Bare_Bones)
+
 ### Various
 
-* https://johncarlosbaez.wordpress.com/2013/09/29/levels-of-excellence/
-* http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/
-* http://conceptviz.github.io/#/e30=
-* http://hackershelf.com/browse/?popular=1
-* http://wiki.osdev.org/Bare_Bones
-* https://codelympics.io/blog/why-do-side-projects-die
-* http://ask.puppetlabs.com/question/1655/an-end-to-end-roleprofile-example-using-hiera/
-* https://github.com/prakhar1989/awesome-courses
-* https://blog.todoist.com/2015/11/30/ultimate-guide-personal-productivity-methods/
-* http://lcamtuf.coredump.cx/prep/
+* [Gallery of concept visualization](http://conceptviz.github.io/#/e30=)
+* [Ultimate guide to personal productivity methods](https://blog.todoist.com/2015/11/30/ultimate-guide-personal-productivity-methods/)
 * http://www.peirce.org/writings/p119.html
 * https://cloud.google.com/solutions/automated-build-images-with-jenkins-kubernetes
 * https://cloud.google.com/solutions/scalable-and-resilient-apps
@@ -64,6 +70,7 @@
 * https://www.airpair.com/reactjs/posts/reactjs-a-guide-for-rails-developers
 
 ### Machine learning and other stuff (neural network backprop better)
+* [Machine learning algos explained in plain english](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
 * http://www.ai-junkie.com/
 * https://timdettmers.wordpress.com/2015/07/27/brain-vs-deep-learning-singularity/
 * http://ilyakava.tumblr.com/post/125230881527/my-1st-kaggle-convnet-getting-to-3rd-percentile
