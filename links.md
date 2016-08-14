@@ -13,10 +13,6 @@
 * [Akin laws of space engineering](http://spacecraft.ssl.umd.edu/akins_laws.html)
 * [Sun position, ephemeris calc](http://aa.quae.nl/en/reken/zonpositie.html)
 
-### Puppet
-
-* http://ask.puppetlabs.com/question/1655/an-end-to-end-roleprofile-example-using-hiera/
-
 ### Cscience
 
 * [OS development guidelines and tuts](http://wiki.osdev.org/Bare_Bones)

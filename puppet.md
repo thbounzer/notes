@@ -4,6 +4,8 @@
 
 * [installing instructions](https://puppetlabs.com/misc/download-options)
 * [debian install section](https://docs.puppetlabs.com/guides/install_puppet/install_debian_ubuntu.html)
+* [role and profiles example](http://ask.puppetlabs.com/question/1655/an-end-to-end-roleprofile-example-using-hiera/)
+
 
 * puppet is like knife in chef. puppet apply file.pp executes the list of resources contained in file. In puppet jargon, using puppet apply you ENFORCE the state described inside the pp file
 * pp files are called manifests, and they are like cookbooks in opscode chef world
