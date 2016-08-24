@@ -1,8 +1,10 @@
 ### Best of inspirational book two
 
 * [Levels of excellence](https://johncarlosbaez.wordpress.com/2013/09/29/levels-of-excellence/)
-
-
+* [Being a dev after 40](https://medium.com/@akosma/being-a-developer-after-40-3c5dd112210c#.fmu869hp1)
+* [Secrets of great programmers](https://www.quora.com/What-are-the-best-kept-secrets-of-great-programmers/answer/Jens-Rantil?srid=V3G&amp%3Bshare=1&imm_mid=0e4b07&cmp=em-prog-na-na-newsltr_20160611)
+* [on charlie munger lattice of mental models](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.khojlxomd)
+* [Math and genius](http://lesswrong.com/lw/2v1/great_mathematicians_on_math_competitions_and/)
 
 ### Tools
 
@@ -16,19 +18,14 @@
 ### Cscience
 
 * [OS development guidelines and tuts](http://wiki.osdev.org/Bare_Bones)
+* [Notes on data structures and programming techniques - really good, C and C++](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.pdf)
+* [Teaching C](http://blog.regehr.org/archives/1393)
 
 ### Various
 
 * [Gallery of concept visualization](http://conceptviz.github.io/#/e30=)
 * [Ultimate guide to personal productivity methods](https://blog.todoist.com/2015/11/30/ultimate-guide-personal-productivity-methods/)
 * http://www.peirce.org/writings/p119.html
-* https://cloud.google.com/solutions/automated-build-images-with-jenkins-kubernetes
-* https://cloud.google.com/solutions/scalable-and-resilient-apps
-* http://www.cs.yale.edu/homes/aspnes/classes/223/notes.pdf
-* http://www.cs.yale.edu/homes/aspnes/pinewiki/CS365%282f%29Notes.html
-* http://www.bakadesuyo.com/2016/04/bad-habits/?utm_source=%22Barking+Up+The+Wrong+Tree%22+Weekly+Newsletter&utm_campaign=de725eabac-badhabits_4_17_2016&utm_medium=email&utm_term=0_78d4c08a64-de725eabac-57698157
-* http://nickcraver.com/blog/2016/02/03/stack-overflow-a-technical-deconstruction/
-* [Teaching C](http://blog.regehr.org/archives/1393)
 * [Best cron practices](https://sanctum.geek.nz/arabesque/cron-best-practices/?imm_mid=0e3bcf&cmp=em-prog-na-na-newsltr_20160514)
 * [Your brain is not a computer](https://aeon.co/essays/your-brain-does-not-process-information-and-it-is-not-a-computer)
 * [On coding interviews](https://blog.devmastery.com/how-to-win-the-coding-interview-71ae7102d685#.hfdxy9xsw)
@@ -47,11 +44,6 @@
 * http://cacr.uwaterloo.ca/hac/
 
 ### Must
-* [Being a dev after 40](https://medium.com/@akosma/being-a-developer-after-40-3c5dd112210c#.fmu869hp1)
-* [Secrets of great programmers](https://www.quora.com/What-are-the-best-kept-secrets-of-great-programmers/answer/Jens-Rantil?srid=V3G&amp%3Bshare=1&imm_mid=0e4b07&cmp=em-prog-na-na-newsltr_20160611)
-* [on charlie munger lattice of mental models](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.khojlxomd)
-* [Math and genius](http://lesswrong.com/lw/2v1/great_mathematicians_on_math_competitions_and/)
-
 
 ### Sandbox qemu+aboriginal
 * http://www.hs-augsburg.de/~phuewe/automated_sandbox_testing_with_qemu_and_aboriginal.html
@@ -90,6 +82,7 @@
 
 ####Reference
 * sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html
+* [Stack overflow deconstruction](http://nickcraver.com/blog/2016/02/03/stack-overflow-a-technical-deconstruction/)
 
 ####TLS/SSL explanation on stack overflow
 * http://security.stackexchange.com/questions/20803/how-does-ssl-tls-work
