@@ -5,6 +5,7 @@
 * [Secrets of great programmers](https://www.quora.com/What-are-the-best-kept-secrets-of-great-programmers/answer/Jens-Rantil?srid=V3G&amp%3Bshare=1&imm_mid=0e4b07&cmp=em-prog-na-na-newsltr_20160611)
 * [on charlie munger lattice of mental models](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.khojlxomd)
 * [Math and genius](http://lesswrong.com/lw/2v1/great_mathematicians_on_math_competitions_and/)
+* [On finding purpose](http://tranquilmonkey.com/hunter-s-thompsons-extraordinary-letter-on-finding-your-purpose/)
 
 ### Tools
 
