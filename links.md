@@ -6,6 +6,7 @@
 * [on charlie munger lattice of mental models](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.khojlxomd)
 * [Math and genius](http://lesswrong.com/lw/2v1/great_mathematicians_on_math_competitions_and/)
 * [On finding purpose](http://tranquilmonkey.com/hunter-s-thompsons-extraordinary-letter-on-finding-your-purpose/)
+* [Homo deus](https://www.theguardian.com/books/2016/aug/24/homo-deus-by-yuval-noah-harari-review)
 
 ### Tools
 
@@ -35,6 +36,7 @@
 * [ESP8266-tutorial](http://www.agcross.com/2015/09/the-esp8266-wifi-chip-part-1-up-and-running/)
 * [Interview unix](https://www.youtube.com/watch?v=vT_J6xc-Az0)
 * [Programming beyond practices](https://tinyletter.com/programming-beyond-practices/archive)
+* [Reality as a shared allucination](http://reactor-core.org/reality-hallucination.html)
 
 ### Japan
 
