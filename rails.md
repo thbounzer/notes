@@ -1,5 +1,15 @@
 # Rails cheatsheet
 
+## Rails.application.config.x (> 4.2.7)
+
+Let's say that you need to store some global configuration data that you need to share across the app.
+You can use config_for and Rails.application.config.x.
+* First create a yaml file with your settings, place it inside the config directory, ex. config/yoursettings.yml
+* You can now load the settings from the application using: `settings = Rails.application.config_for(:yoursettings)`
+* If you need to share the data across the app, store it: `Rails.application.config.yoursettings = settings`
+
+
+
 ## Active Record associations
   * belongs_to
       * one to one, declaring model belongs to one instance of the other model. *FK in declaring model*  Ex. Order(customer_id_fk) belongs_to Customer 
