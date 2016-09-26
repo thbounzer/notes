@@ -7,6 +7,7 @@
 * [Math and genius](http://lesswrong.com/lw/2v1/great_mathematicians_on_math_competitions_and/)
 * [On finding purpose](http://tranquilmonkey.com/hunter-s-thompsons-extraordinary-letter-on-finding-your-purpose/)
 * [Homo deus](https://www.theguardian.com/books/2016/aug/24/homo-deus-by-yuval-noah-harari-review)
+* [Be a stoic](http://www.bakadesuyo.com/2016/09/ancient-wisdom/?utm_source=%22Barking+Up+The+Wrong+Tree%22+Weekly+Newsletter&utm_campaign=309bcec93d-wisdom_9_25_2016&utm_medium=email&utm_term=0_78d4c08a64-309bcec93d-57698157)
 
 ### Tools
 
