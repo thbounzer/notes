@@ -88,6 +88,7 @@
 ####Reference
 * sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html
 * [Stack overflow deconstruction](http://nickcraver.com/blog/2016/02/03/stack-overflow-a-technical-deconstruction/)
+* [A reference architecture](http://swift.siphos.be/aglara//index.html)
 
 ####TLS/SSL explanation on stack overflow
 * http://security.stackexchange.com/questions/20803/how-does-ssl-tls-work
