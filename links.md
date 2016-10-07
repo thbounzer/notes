@@ -39,6 +39,7 @@
 * [Programming beyond practices](https://tinyletter.com/programming-beyond-practices/archive)
 * [Reality as a shared allucination](http://reactor-core.org/reality-hallucination.html)
 * [Renewables](https://www.withouthotair.com/)
+* [Old programmer](http://www.bennorthrop.com/Essays/2016/reflections-of-an-old-programmer.php)
 
 ### Japan
 
