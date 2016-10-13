@@ -38,6 +38,8 @@
 * [Interview unix](https://www.youtube.com/watch?v=vT_J6xc-Az0)
 * [Programming beyond practices](https://tinyletter.com/programming-beyond-practices/archive)
 * [Reality as a shared allucination](http://reactor-core.org/reality-hallucination.html)
+* [Renewables](https://www.withouthotair.com/)
+* [Old programmer](http://www.bennorthrop.com/Essays/2016/reflections-of-an-old-programmer.php)
 
 ### Japan
 
@@ -88,6 +90,7 @@
 ####Reference
 * sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html
 * [Stack overflow deconstruction](http://nickcraver.com/blog/2016/02/03/stack-overflow-a-technical-deconstruction/)
+* [A reference architecture](http://swift.siphos.be/aglara//index.html)
 
 ####TLS/SSL explanation on stack overflow
 * http://security.stackexchange.com/questions/20803/how-does-ssl-tls-work
