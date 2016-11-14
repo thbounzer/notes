@@ -40,6 +40,7 @@
 * [Reality as a shared allucination](http://reactor-core.org/reality-hallucination.html)
 * [Renewables](https://www.withouthotair.com/)
 * [Old programmer](http://www.bennorthrop.com/Essays/2016/reflections-of-an-old-programmer.php)
+* [FTS](http://www.vox.com/2015/6/30/8852017/quit-my-job)
 
 ### Japan
 
