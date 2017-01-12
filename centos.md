@@ -20,7 +20,8 @@
             NM_CONTROLLED=yes
             BOOTPROTO=dhcp`
     * Iptables is enabled by default with ssh enabled as well.
-    * Configuration can be found in /etc/sysconfig/iptables
+        * Configuration can be found in /etc/sysconfig/iptables
+    * hostname can be changed from /etc/sysconfig/network
 
 * Yum (packages)
     * Proxy conf:
