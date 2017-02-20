@@ -9,6 +9,7 @@
 * [Homo deus](https://www.theguardian.com/books/2016/aug/24/homo-deus-by-yuval-noah-harari-review)
 * [Be a stoic](http://www.bakadesuyo.com/2016/09/ancient-wisdom/?utm_source=%22Barking+Up+The+Wrong+Tree%22+Weekly+Newsletter&utm_campaign=309bcec93d-wisdom_9_25_2016&utm_medium=email&utm_term=0_78d4c08a64-309bcec93d-57698157)
 * [So you think you know C?](https://hackernoon.com/so-you-think-you-know-c-8d4e2cd6f6a6#.pjqxobh6k)
+* [If Susan can learn physics so can you](https://fledglingphysicist.com/2013/12/12/if-susan-can-learn-physics-so-can-you/)
 
 ### Hi
 
