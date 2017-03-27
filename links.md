@@ -12,6 +12,11 @@
 * [If Susan can learn physics so can you](https://fledglingphysicist.com/2013/12/12/if-susan-can-learn-physics-so-can-you/)
 * [A cultured person, a la Checkov](https://medium.com/the-polymath-project/anton-chekhov-how-to-become-a-cultured-person-f4bf9e8889f3#.pmqxuboxl)
 
+###
+
+* [useful for SOCKS and traffic forwarding/tunneling](https://artkond.com/2017/03/23/pivoting-guide/)
+
+
 ### Hi
 
 * [History tells us](http://www.huffingtonpost.com/tobias-stone/history-tells-us-what-will-brexit-trump_b_11179774.html?)
