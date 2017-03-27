@@ -27,13 +27,13 @@
         * `iptables -A chain`
     * Insert in chain as rulenum (default at the top or 1)
         * `iptables -I chain [rulenum]`
-    * Replace rules with rules specified for the rulnum: iptables -R chain rulenum     // 
-# iptables -D chain rulenum     // delete rules matching rulenum (default 1)
-# iptables -D chain       // delete matching rules
+    * Replace rules with rules specified for the rulnum: iptables -R chain rulenum
+        * `iptables -D chain rulenum`   delete rules matching rulenum (default 1)
+        * `iptables -D chain`        delete matching rules
 
-change default policy:
-# iptables -P chain target      // change policy on chain to target
-# iptables -P INPUT DROP      // change INPUT table policy to DROP
-# iptables -P OUTPUT DROP     // change OUTPUT chain policy to DROP
-# iptables -P FORWARD DROP      // change FORWARD chain policy to DROP
+* Change default policy:
+    * `iptables -P chain target`   change policy on chain to target
+    * `iptables -P INPUT DROP`     change INPUT table policy to DROP
+    * `iptables -P OUTPUT DROP`    change OUTPUT chain policy to DROP
+    * `iptables -P FORWARD DROP`   change FORWARD chain policy to DROP
 

@@ -1,6 +1,6 @@
-#puppet starting up
+# puppet starting up (probably out of date_
 
-##precious links:
+## precious links:
 
 * [installing instructions](https://puppetlabs.com/misc/download-options)
 * [debian install section](https://docs.puppetlabs.com/guides/install_puppet/install_debian_ubuntu.html)
@@ -18,15 +18,14 @@
 * modules are like cookbooks 
 * modules name must have the same name of the direcory that contains them. Inside module dir you must have a manifests dir, and manifest shoul contain an init.pp manifest file 
 
-##special notes:
-* Avoid PC1 dpkg in debian, it installs a completely outdated version of puppet, despite the fact that the package is more recent
+## special notes:
 * check dns name resolution of the master and of the agents, could be messy to fix things after 
 * test that hiera is working: `puppet apply -e '$somevar = hiera(foo) notify { $somevar: }'`
 * test syntax of your yaml files: `ruby -e "require 'yaml'; YAML.load_file('hiera.yaml')"` 
 * undef variable value is like a sort of NULL value
 
 
-##other special notes
+## other special notes
 
 * In puppet.conf on each agent node, you can set the environment setting in either the agent or main config section. When that node requests a catalog from the Puppet master, it will request that environment. If you are using an ENC and it specifies an environment for that node, it will override whatever is in the config file
 

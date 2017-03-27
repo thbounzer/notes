@@ -1,4 +1,4 @@
-#Some notes related on centos
+# Some notes related on centos
 
 * Networking
     * Interfaces configurations is inside /etc/sysconfig/network-scripts/ file looks like ifcfg-eth0

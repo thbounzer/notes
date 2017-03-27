@@ -1,16 +1,16 @@
-#Fast puppet master/agent configuration setup (Debian)
+# Fast puppet master/agent configuration setup (Debian)
 
 * Official [install instructions](https://puppetlabs.com/misc/download-options)
 * [Debian install section](https://docs.puppetlabs.com/guides/install_puppet/install_debian_ubuntu.html)
 
-##Master setup:
+## Master setup:
 
 * Download the correct dpkg (follow the updated official guide - https://apt.puppetlabs.com/puppetlabs-release-wheezy.deb)
 * Check that the FQDN of the machine is the one that you want
 * Install puppetmaster with passenger : sudo apt-get install puppetmaster-passenger
 * Master is up. Check if passenger is running correctly
 
-##Agent setup:
+## Agent setup:
 
 * Install the agent: sudo apt-get install puppet
 * Set the puppet master server directive inside the puppet.conf file (/etc/puppet.conf), adding in the main section `server = yourmaster.yourdomain.yourtld`
