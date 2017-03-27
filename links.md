@@ -103,28 +103,28 @@
 * [Read math no uni-first of a series of three articles](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-1)
 * [Godel and limits of logic](https://plus.maths.org/content/goumldel-and-limits-logic)
 
-####Reference
+### Reference
 * sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html
 * [Stack overflow deconstruction](http://nickcraver.com/blog/2016/02/03/stack-overflow-a-technical-deconstruction/)
 * [A reference architecture](http://swift.siphos.be/aglara//index.html)
 
-####TLS/SSL explanation on stack overflow
+### TLS/SSL explanation on stack overflow
 * http://security.stackexchange.com/questions/20803/how-does-ssl-tls-work
 
-####Unikernels
+### Unikernels
 * http://slides.com/technolo-g/intro-to-unikernels-and-erlang-on-xen-ling-demo#/
 
-####Regex tester
+### Regex tester
 * http://regexr.com/
 
-####Password manager
+### Password manager
 * http://www.passwordstore.org/
 
-####Languages
+### Languages
 * http://www.openculture.com/freelanguagelessons
 * http://fsi-languages.yojik.eu/
 
-####HIP
+### HIP
 * [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 * [You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 * [The Art of Money Getting](https://www.gutenberg.org/files/8581/8581-h/8581-h.htm)
