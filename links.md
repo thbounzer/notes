@@ -88,6 +88,7 @@
 
 ### Note taking
 * http://www.onlamp.com/lpt/a/6377
+* [How to study - rapaport](http://www.cse.buffalo.edu/~rapaport/howtostudy.html)
 
 ### Inspirational
 * http://www.bbc.com/news/magazine-32961309
