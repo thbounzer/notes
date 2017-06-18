@@ -104,6 +104,7 @@
 * [Book of proof](http://www.people.vcu.edu/~rhammack/BookOfProof/)
 * [Read math no uni-first of a series of three articles](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-1)
 * [Godel and limits of logic](https://plus.maths.org/content/goumldel-and-limits-logic)
+* [Free mathematics ebooks](http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
 
 ### Reference
 * sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html
