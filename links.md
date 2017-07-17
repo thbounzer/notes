@@ -86,7 +86,8 @@
 * http://www.cs.waikato.ac.nz/ml/weka/
 * [Maching learning class](http://ciml.info/)
 * [Tensorflow class](http://web.stanford.edu/class/cs20si/syllabus.html)
-
+* [Nice ML tutorial](https://spandan-madan.github.io/DeepLearningProject/)
+ 
 ### Note taking
 * http://www.onlamp.com/lpt/a/6377
 * [How to study - rapaport](http://www.cse.buffalo.edu/~rapaport/howtostudy.html)
