@@ -41,7 +41,7 @@
 
 * [Gallery of concept visualization](http://conceptviz.github.io/#/e30=)
 * [Ultimate guide to personal productivity methods](https://blog.todoist.com/2015/11/30/ultimate-guide-personal-productivity-methods/)
-* http://www.peirce.org/writings/p119.html
+* [How to Make Our Ideas Clear](http://www.peirce.org/writings/p119.html)
 * [Best cron practices](https://sanctum.geek.nz/arabesque/cron-best-practices/?imm_mid=0e3bcf&cmp=em-prog-na-na-newsltr_20160514)
 * [Your brain is not a computer](https://aeon.co/essays/your-brain-does-not-process-information-and-it-is-not-a-computer)
 * [On coding interviews](https://blog.devmastery.com/how-to-win-the-coding-interview-71ae7102d685#.hfdxy9xsw)
@@ -54,6 +54,7 @@
 * [Renewables](https://www.withouthotair.com/)
 * [Old programmer](http://www.bennorthrop.com/Essays/2016/reflections-of-an-old-programmer.php)
 * [FTS](http://www.vox.com/2015/6/30/8852017/quit-my-job)
+* [Indiehacker condensed](http://www.toomas.net/2017/07/18/reverse-engineering-a-successful-lifestyle-business-heres-everything-ive-learned-from-reading-indiehackers-com/)
 
 ### Japan
 
