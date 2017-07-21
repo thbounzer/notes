@@ -11,6 +11,7 @@
 * [So you think you know C?](https://hackernoon.com/so-you-think-you-know-c-8d4e2cd6f6a6#.pjqxobh6k)
 * [If Susan can learn physics so can you](https://fledglingphysicist.com/2013/12/12/if-susan-can-learn-physics-so-can-you/)
 * [A cultured person, a la Checkov](https://medium.com/the-polymath-project/anton-chekhov-how-to-become-a-cultured-person-f4bf9e8889f3#.pmqxuboxl)
+* [What do you really need to strive](http://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/)
 
 ###
 
@@ -55,6 +56,7 @@
 * [Old programmer](http://www.bennorthrop.com/Essays/2016/reflections-of-an-old-programmer.php)
 * [FTS](http://www.vox.com/2015/6/30/8852017/quit-my-job)
 * [Indiehacker condensed](http://www.toomas.net/2017/07/18/reverse-engineering-a-successful-lifestyle-business-heres-everything-ive-learned-from-reading-indiehackers-com/)
+* [CIA style guide for writing](https://www.muckrock.com/news/archives/2017/jul/14/cias-style-guide/)
 
 ### Japan
 
