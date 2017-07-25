@@ -12,6 +12,7 @@
 * [If Susan can learn physics so can you](https://fledglingphysicist.com/2013/12/12/if-susan-can-learn-physics-so-can-you/)
 * [A cultured person, a la Checkov](https://medium.com/the-polymath-project/anton-chekhov-how-to-become-a-cultured-person-f4bf9e8889f3#.pmqxuboxl)
 * [What do you really need to strive](http://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/)
+* [Death of reading is threatening the soul](https://www.washingtonpost.com/news/acts-of-faith/wp/2017/07/21/the-death-of-reading-is-threatening-the-soul/)
 
 ###
 
