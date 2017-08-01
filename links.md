@@ -18,6 +18,7 @@
 ###
 
 * [useful for SOCKS and traffic forwarding/tunneling](https://artkond.com/2017/03/23/pivoting-guide/)
+* [PKI](http://pki-tutorial.readthedocs.io/en/latest/)
 
 
 ### Hi
