@@ -14,6 +14,7 @@
 * [What do you really need to strive](http://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/)
 * [Death of reading is threatening the soul](https://www.washingtonpost.com/news/acts-of-faith/wp/2017/07/21/the-death-of-reading-is-threatening-the-soul/)
 * [Emotional processing](http://www.cliffc.org/blog/2017/07/30/introverts-emotional-processing-self-esteem-and-salary-negotiations/)
+* [Amazing simulations, the trust one being the best](http://ncase.me/)
 
 ###
 
