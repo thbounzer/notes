@@ -135,6 +135,9 @@
 * http://www.openculture.com/freelanguagelessons
 * http://fsi-languages.yojik.eu/
 
+### Photo
+* [https://www.lonelyspeck.com/](astrophoto)
+
 ### HIP
 * [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 * [You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
