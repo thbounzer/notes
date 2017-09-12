@@ -30,6 +30,7 @@
 ### Tools
 
 * [linux system auditing tool](https://cisofy.com/)
+* [Unix rosetta stone](http://bhami.com/rosetta.html)
 
 ### Space, astro 
 
