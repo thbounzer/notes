@@ -95,6 +95,7 @@
 * [Maching learning class](http://ciml.info/)
 * [Tensorflow class](http://web.stanford.edu/class/cs20si/syllabus.html)
 * [Nice ML tutorial](https://spandan-madan.github.io/DeepLearningProject/)
+* [Nice NL explanation](https://gormanalysis.com/introduction-to-neural-networks/)
  
 ### Note taking
 * http://www.onlamp.com/lpt/a/6377
