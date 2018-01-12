@@ -63,7 +63,7 @@
 * [Indiehacker condensed](http://www.toomas.net/2017/07/18/reverse-engineering-a-successful-lifestyle-business-heres-everything-ive-learned-from-reading-indiehackers-com/)
 * [CIA style guide for writing](https://www.muckrock.com/news/archives/2017/jul/14/cias-style-guide/)
 * [PF for engineers](https://cs007.blog/)
-
+* [Shipping container house building](http://residentialshippingcontainerprimer.com/conceive%20it)
 ### Japan
 
 * https://www.tofugu.com
