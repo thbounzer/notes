@@ -15,6 +15,7 @@
 * [Death of reading is threatening the soul](https://www.washingtonpost.com/news/acts-of-faith/wp/2017/07/21/the-death-of-reading-is-threatening-the-soul/)
 * [Emotional processing](http://www.cliffc.org/blog/2017/07/30/introverts-emotional-processing-self-esteem-and-salary-negotiations/)
 * [Amazing simulations, the trust one being the best](http://ncase.me/)
+* [Feynman. A model.](https://www.brainpickings.org/2017/10/17/richard-feynman-arline-letter/)
 
 ###
 
