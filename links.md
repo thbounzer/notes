@@ -64,6 +64,7 @@
 * [CIA style guide for writing](https://www.muckrock.com/news/archives/2017/jul/14/cias-style-guide/)
 * [PF for engineers](https://cs007.blog/)
 * [Shipping container house building](http://residentialshippingcontainerprimer.com/conceive%20it)
+* [what's college for](https://www.theatlantic.com/magazine/archive/2018/01/whats-college-good-for/546590/)
 ### Japan
 
 * https://www.tofugu.com
