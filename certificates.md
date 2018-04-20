@@ -19,7 +19,8 @@
     * Use s_client: `openssl s_client -connect your.fqdn:443`
     * Maybe you are using SNI: `openssl s_client -connect your.fqdn:443 -servername your.fqdn`
 
-* Installing new certificates (debian)
+* Trust new certificates (CAs in theory) (debian)
     * Copy the certificate in pem format inside /usr/local/share/ca-certificates/
+    * Certificate needs to HAVE crt extensions
     * run as root update-ca-certificates
     * profit
