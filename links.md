@@ -11,10 +11,16 @@
 * [So you think you know C?](https://hackernoon.com/so-you-think-you-know-c-8d4e2cd6f6a6#.pjqxobh6k)
 * [If Susan can learn physics so can you](https://fledglingphysicist.com/2013/12/12/if-susan-can-learn-physics-so-can-you/)
 * [A cultured person, a la Checkov](https://medium.com/the-polymath-project/anton-chekhov-how-to-become-a-cultured-person-f4bf9e8889f3#.pmqxuboxl)
+* [What do you really need to strive](http://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/)
+* [Death of reading is threatening the soul](https://www.washingtonpost.com/news/acts-of-faith/wp/2017/07/21/the-death-of-reading-is-threatening-the-soul/)
+* [Emotional processing](http://www.cliffc.org/blog/2017/07/30/introverts-emotional-processing-self-esteem-and-salary-negotiations/)
+* [Amazing simulations, the trust one being the best](http://ncase.me/)
+* [Feynman. A model.](https://www.brainpickings.org/2017/10/17/richard-feynman-arline-letter/)
 
 ###
 
 * [useful for SOCKS and traffic forwarding/tunneling](https://artkond.com/2017/03/23/pivoting-guide/)
+* [PKI](http://pki-tutorial.readthedocs.io/en/latest/)
 
 
 ### Hi
@@ -25,6 +31,7 @@
 ### Tools
 
 * [linux system auditing tool](https://cisofy.com/)
+* [Unix rosetta stone](http://bhami.com/rosetta.html)
 
 ### Space, astro 
 
@@ -42,7 +49,7 @@
 
 * [Gallery of concept visualization](http://conceptviz.github.io/#/e30=)
 * [Ultimate guide to personal productivity methods](https://blog.todoist.com/2015/11/30/ultimate-guide-personal-productivity-methods/)
-* http://www.peirce.org/writings/p119.html
+* [How to Make Our Ideas Clear](http://www.peirce.org/writings/p119.html)
 * [Best cron practices](https://sanctum.geek.nz/arabesque/cron-best-practices/?imm_mid=0e3bcf&cmp=em-prog-na-na-newsltr_20160514)
 * [Your brain is not a computer](https://aeon.co/essays/your-brain-does-not-process-information-and-it-is-not-a-computer)
 * [On coding interviews](https://blog.devmastery.com/how-to-win-the-coding-interview-71ae7102d685#.hfdxy9xsw)
@@ -55,7 +62,11 @@
 * [Renewables](https://www.withouthotair.com/)
 * [Old programmer](http://www.bennorthrop.com/Essays/2016/reflections-of-an-old-programmer.php)
 * [FTS](http://www.vox.com/2015/6/30/8852017/quit-my-job)
-
+* [Indiehacker condensed](http://www.toomas.net/2017/07/18/reverse-engineering-a-successful-lifestyle-business-heres-everything-ive-learned-from-reading-indiehackers-com/)
+* [CIA style guide for writing](https://www.muckrock.com/news/archives/2017/jul/14/cias-style-guide/)
+* [PF for engineers](https://cs007.blog/)
+* [Shipping container house building](http://residentialshippingcontainerprimer.com/conceive%20it)
+* [what's college for](https://www.theatlantic.com/magazine/archive/2018/01/whats-college-good-for/546590/)
 ### Japan
 
 * https://www.tofugu.com
@@ -87,7 +98,9 @@
 * http://www.cs.waikato.ac.nz/ml/weka/
 * [Maching learning class](http://ciml.info/)
 * [Tensorflow class](http://web.stanford.edu/class/cs20si/syllabus.html)
-
+* [Nice ML tutorial](https://spandan-madan.github.io/DeepLearningProject/)
+* [Nice NL explanation](https://gormanalysis.com/introduction-to-neural-networks/)
+ 
 ### Note taking
 * http://www.onlamp.com/lpt/a/6377
 * [How to study - rapaport](http://www.cse.buffalo.edu/~rapaport/howtostudy.html)
@@ -127,6 +140,9 @@
 ### Languages
 * http://www.openculture.com/freelanguagelessons
 * http://fsi-languages.yojik.eu/
+
+### Photo
+* [https://www.lonelyspeck.com/](astrophoto)
 
 ### HIP
 * [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
