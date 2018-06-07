@@ -36,6 +36,7 @@
 * [OS development guidelines and tuts](http://wiki.osdev.org/Bare_Bones)
 * [Notes on data structures and programming techniques - really good, C and C++](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.pdf)
 * [Teaching C](http://blog.regehr.org/archives/1393)
+* [google's guide to secure webapps](https://google-gruyere.appspot.com/part1)
 
 ### Various
 
