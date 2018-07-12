@@ -16,6 +16,7 @@
 * [Emotional processing](http://www.cliffc.org/blog/2017/07/30/introverts-emotional-processing-self-esteem-and-salary-negotiations/)
 * [Amazing simulations, the trust one being the best](http://ncase.me/)
 * [Feynman. A model.](https://www.brainpickings.org/2017/10/17/richard-feynman-arline-letter/)
+* [What are you optimizing for](https://medium.com/@saronyitbarek/the-one-question-that-will-change-your-life-449cbfaa11b2)
 
 ###
 
@@ -43,6 +44,7 @@
 * [OS development guidelines and tuts](http://wiki.osdev.org/Bare_Bones)
 * [Notes on data structures and programming techniques - really good, C and C++](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.pdf)
 * [Teaching C](http://blog.regehr.org/archives/1393)
+* [google's guide to secure webapps](https://google-gruyere.appspot.com/part1)
 
 ### Various
 
