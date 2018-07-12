@@ -143,6 +143,13 @@
 ### Photo
 * [https://www.lonelyspeck.com/](astrophoto)
 
+### Walk & Hike
+* [http://www.bivakzone.be/](Free camping spots across Belgium, hiking trails)
+* [http://www.trekking-eifel.de/de/jetzt-buchen/](Camping spots in eifel park)
+
+### Car
+* [http://webspecial.volkswagen.de/vwinfotainment/int/en/index/downloads/maps-download#/?car=eae8e75f-2cdf-455e-8f82-8aba0846573e&navi=f7d60bb5-e4c7-4f15-a629-ed994e464a9f](Software updates)
+
 ### HIP
 * [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 * [You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
