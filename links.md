@@ -110,6 +110,7 @@
 * http://www.bbc.com/news/magazine-32961309
 
 ### Math
+* [build math intuit](https://sites.google.com/site/butwhymath/)
 * http://www.askamathematician.com/2015/05/q-is-there-such-a-thing-as-half-a-derivative/
 * http://cr.yp.to/papers/calculus.pdf
 * http://jspha.com/posts/there_is_no_royal_road_to_mathematics/
