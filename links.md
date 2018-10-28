@@ -17,6 +17,7 @@
 * [Amazing simulations, the trust one being the best](http://ncase.me/)
 * [Feynman. A model.](https://www.brainpickings.org/2017/10/17/richard-feynman-arline-letter/)
 * [What are you optimizing for](https://medium.com/@saronyitbarek/the-one-question-that-will-change-your-life-449cbfaa11b2)
+* [Strategies to avoid procrastination](https://queue.acm.org/detail.cfm?id=3280677)
 
 ###
 
