@@ -111,6 +111,7 @@
 * http://www.bbc.com/news/magazine-32961309
 
 ### Math
+* [build math intuit](https://sites.google.com/site/butwhymath/)
 * http://www.askamathematician.com/2015/05/q-is-there-such-a-thing-as-half-a-derivative/
 * http://cr.yp.to/papers/calculus.pdf
 * http://jspha.com/posts/there_is_no_royal_road_to_mathematics/
@@ -145,6 +146,13 @@
 
 ### Photo
 * [https://www.lonelyspeck.com/](astrophoto)
+
+### Walk & Hike
+* [http://www.bivakzone.be/](Free camping spots across Belgium, hiking trails)
+* [http://www.trekking-eifel.de/de/jetzt-buchen/](Camping spots in eifel park)
+
+### Car
+* [http://webspecial.volkswagen.de/vwinfotainment/int/en/index/downloads/maps-download#/?car=eae8e75f-2cdf-455e-8f82-8aba0846573e&navi=f7d60bb5-e4c7-4f15-a629-ed994e464a9f](Software updates)
 
 ### HIP
 * [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
