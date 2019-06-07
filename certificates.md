@@ -1,6 +1,28 @@
 ## Pki cookbook
 
 * Generate csr and key (reasonable params) : `openssl req -out your.fqdn.csr -new -newkey rsa:2048 -nodes -sha256 -keyout your.fqdn.key`;
+
+* (SUGGESTED) CN are going to be deprecated, so create a config file (ssl.conf) and set always Subject Alternatives Names:
+
+    [ req ]
+    default_bits       = 2048
+    distinguished_name = req_distinguished_name
+    req_extensions     = req_ext
+    [ req_distinguished_name ]
+    countryName                 = Country Name (2 letter code)
+    stateOrProvinceName         = State or Province Name (full name)
+    localityName               = Locality Name (eg, city)
+    organizationName           = Organization Name (eg, company)
+    commonName                 = Common Name (e.g. server FQDN or YOUR name)
+    [ req_ext ]
+    subjectAltName = @alt_names
+    [alt_names]
+    DNS.1   = dns.name.one
+    DNS.2   = dns.name.two
+    
+    Then create CSR and key: `openssl req -out your.fqdn.csr -new -newkey rsa:2048 -nodes -sha256 -keyout your.fqdn.key -config ssl.conf`
+
+
 * Submit to CA owners and ask for signing;
 
 * *(optional)* Check the generated csr: `openssl req -text -noout -verify -in CSR.csr`
