@@ -14,8 +14,11 @@
 * [What do you really need to strive](http://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/)
 * [Death of reading is threatening the soul](https://www.washingtonpost.com/news/acts-of-faith/wp/2017/07/21/the-death-of-reading-is-threatening-the-soul/)
 * [Emotional processing](http://www.cliffc.org/blog/2017/07/30/introverts-emotional-processing-self-esteem-and-salary-negotiations/)
-* [Amazing simulations, the trust one being the best](http://ncase.me/) 
 * [What I am saying since years - lol](https://blog.regehr.org/archives/199)
+* [Amazing simulations, the trust one being the best](http://ncase.me/)
+* [Feynman. A model.](https://www.brainpickings.org/2017/10/17/richard-feynman-arline-letter/)
+* [What are you optimizing for](https://medium.com/@saronyitbarek/the-one-question-that-will-change-your-life-449cbfaa11b2)
+* [Strategies to avoid procrastination](https://queue.acm.org/detail.cfm?id=3280677)
 
 ###
 
@@ -43,6 +46,7 @@
 * [OS development guidelines and tuts](http://wiki.osdev.org/Bare_Bones)
 * [Notes on data structures and programming techniques - really good, C and C++](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.pdf)
 * [Teaching C](http://blog.regehr.org/archives/1393)
+* [google's guide to secure webapps](https://google-gruyere.appspot.com/part1)
 
 ### Various
 
@@ -64,7 +68,8 @@
 * [Indiehacker condensed](http://www.toomas.net/2017/07/18/reverse-engineering-a-successful-lifestyle-business-heres-everything-ive-learned-from-reading-indiehackers-com/)
 * [CIA style guide for writing](https://www.muckrock.com/news/archives/2017/jul/14/cias-style-guide/)
 * [PF for engineers](https://cs007.blog/)
-
+* [Shipping container house building](http://residentialshippingcontainerprimer.com/conceive%20it)
+* [what's college for](https://www.theatlantic.com/magazine/archive/2018/01/whats-college-good-for/546590/)
 ### Japan
 
 * https://www.tofugu.com
@@ -107,6 +112,7 @@
 * http://www.bbc.com/news/magazine-32961309
 
 ### Math
+* [build math intuit](https://sites.google.com/site/butwhymath/)
 * http://www.askamathematician.com/2015/05/q-is-there-such-a-thing-as-half-a-derivative/
 * http://cr.yp.to/papers/calculus.pdf
 * http://jspha.com/posts/there_is_no_royal_road_to_mathematics/
@@ -141,6 +147,13 @@
 
 ### Photo
 * [https://www.lonelyspeck.com/](astrophoto)
+
+### Walk & Hike
+* [http://www.bivakzone.be/](Free camping spots across Belgium, hiking trails)
+* [http://www.trekking-eifel.de/de/jetzt-buchen/](Camping spots in eifel park)
+
+### Car
+* [http://webspecial.volkswagen.de/vwinfotainment/int/en/index/downloads/maps-download#/?car=eae8e75f-2cdf-455e-8f82-8aba0846573e&navi=f7d60bb5-e4c7-4f15-a629-ed994e464a9f](Software updates)
 
 ### HIP
 * [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
