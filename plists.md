@@ -17,6 +17,8 @@
 * Sascha Funke - [Mango](https://www.youtube.com/watch?v=w1mUAVPaX98) 
 * Under black helmet - [Impulsive behaviour](https://www.youtube.com/watch?v=zuwjENIHSks) #abitevil
 * Enrico Sangiuliano - [Moon Rocks](https://www.youtube.com/watch?v=2hsoXTZbhBo)
+* Joseph Capriati - [Solar System](https://www.youtube.com/watch?v=wCaFm0Jk5s4)
+
 
 ##Vibes for a Friday
 * Todd Terje - [Inspector Norse](https://www.youtube.com/watch?v=ebjXsc0UjdQ)
