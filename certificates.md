@@ -46,3 +46,11 @@
     * Certificate needs to HAVE crt extensions
     * run as root update-ca-certificates
     * profit
+
+
+* Perhaps you want to verify if the key matches the certificate (for some arcane obscure reasons):
+    * The modulus and the public exponent portions in the key and the Certificate must match. But since the public exponent is usually 65537 and it's bothering comparing long modulus you can use the following approach:
+    * openssl x509 -noout -modulus -in server.crt | openssl md5
+    * openssl rsa -noout -modulus -in server.key | openssl md5
+    * Both hashes should match, of course
+
