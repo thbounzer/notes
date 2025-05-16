@@ -54,3 +54,6 @@
     * openssl rsa -noout -modulus -in server.key | openssl md5
     * Both hashes should match, of course
 
+
+* To create a pfx/pkcs12 from a jks: 
+  `keytool -importkeystore -srckeystore thekeystore.jks -srcstoretype JKS -destkeystore thekeystore.pfx -deststoretype PKCS12`
