@@ -103,7 +103,8 @@
 * [Tensorflow class](http://web.stanford.edu/class/cs20si/syllabus.html)
 * [Nice ML tutorial](https://spandan-madan.github.io/DeepLearningProject/)
 * [Nice NL explanation](https://gormanalysis.com/introduction-to-neural-networks/)
- 
+* [Deep learning in Python](https://deeplearningwithpython.io/)
+
 ### Note taking
 * http://www.onlamp.com/lpt/a/6377
 * [How to study - rapaport](http://www.cse.buffalo.edu/~rapaport/howtostudy.html)
