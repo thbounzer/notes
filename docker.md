@@ -13,8 +13,7 @@
 * [Secretscanner for another well, secret scanner - same guys as threatmapper](https://github.com/deepfence/SecretScanne)
 * [docker-bench-security](https://github.com/docker/docker-bench-security)
 
-
-
 ## Commands
 
 * Connect to shell of running container: `docker exec -it idofcontainer /bin/bash`
+* Special Docker DNS record for connecting from within a container to something running on the host: `host.docker.internal`
