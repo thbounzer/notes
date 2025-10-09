@@ -21,3 +21,6 @@
     -e DISPLAY=$DISPLAY -e WAYLAND_DISPLAY=$WAYLAND_DISPLAY \
     -e XDG_RUNTIME_DIR=$XDG_RUNTIME_DIR -e PULSE_SERVER=$PULSE_SERVER -it yourimage:tag /bin/bash`
   This works if you are using WSLg,some docs here: https://github.com/microsoft/wslg
+* Passing build secret through env vars, for example if you want to clone stuff from a git remote repo:
+  * Dockerfile: `RUN --mount=type=secret,id=token DEPLOYTOKEN=$(cat /run/secrets/token) && git clone https://youruname:${DEPLOYTOKEN}@gitlab.com/whatever/you/want/coolrepo.git`
+  * Build command (of course set the env var in your shell beforehands): `docker build  --secret id=token,env=DEPLOYTOKEN --file Dockerfile . -t coolimage:bestversion`
