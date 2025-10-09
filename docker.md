@@ -17,3 +17,7 @@
 
 * Connect to shell of running container: `docker exec -it idofcontainer /bin/bash`
 * Special Docker DNS record for connecting from within a container to something running on the host: `host.docker.internal`
+* This is interesting in general: What if you want to run a graphical application from within a docker container and you're using docker on WSL? `docker run -it -v /tmp/.X11-unix:/tmp/.X11-unix -v /mnt/wslg:/mnt/wslg \
+    -e DISPLAY=$DISPLAY -e WAYLAND_DISPLAY=$WAYLAND_DISPLAY \
+    -e XDG_RUNTIME_DIR=$XDG_RUNTIME_DIR -e PULSE_SERVER=$PULSE_SERVER -it yourimage:tag /bin/bash`
+  This works if you are using WSLg,some docs here: https://github.com/microsoft/wslg
